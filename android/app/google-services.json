@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385380442383",
+    "project_id": "tapitout-d25e4",
+    "storage_bucket": "tapitout-d25e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385380442383:android:717d49baa1c92f4061de7a",
+        "android_client_info": {
+          "package_name": "com.example.new_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385380442383-ugt84lelj9go79if34o5n1vfds3fvqqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiLVGneih51RKdgUAuB4vfW8ZbsJUxoss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385380442383-ugt84lelj9go79if34o5n1vfds3fvqqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
